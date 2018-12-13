@@ -10,4 +10,6 @@ Tested on:
 R12.1-m2.300-19
 ```
 
-The telnet class is modified! Original one is from Dalibor Andzakovic.
+**Only working, when the telnet prompt is ```xa001001``` - improvements are welcome ;)**
+
+**The telnet class is modified to work properly!** Original one is from Dalibor Andzakovic.
