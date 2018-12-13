@@ -15,7 +15,7 @@ This is a php-based tool which connects to the OXE and searches for incidents re
 Tested on:
 
 ```
-R12.1-m2.300-19
+OmniPCX Enterprise R12.1-m2.300-19
 ```
 
 **Only working, when the telnet prompt is ```xa001001``` - improvements are welcome ;)**
